@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 174a2e96-c681-a8c4-b95e-f84077ad3ec1
 resourcetype: Document
 title: Sample Analytical Paragraphs
 uid: 307be1f2-3696-1343-e823-8a9982e2ea6b

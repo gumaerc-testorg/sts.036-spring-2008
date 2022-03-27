@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1fad04f-5145-511c-4858-d8dd29435ab4
 resourcetype: Document
 title: "\u201CDevilish iron horse\u201D and \u201CAeolian harp\u201D: Artistic Responses\
   \ to Industrialization"

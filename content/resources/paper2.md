@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 174a2e96-c681-a8c4-b95e-f84077ad3ec1
 resourcetype: Document
 title: 'Paper 2: Comparative Analytical Essay'
 uid: 03f1ab57-4c00-0048-3f3a-2b76ce000f92

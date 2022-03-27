@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1c1ea490-92fb-3923-615a-e5d6a5906671
 resourcetype: Document
 title: Week 9 Reading Questions
 uid: 75420ef4-21cd-7517-2427-a37dad0854b0

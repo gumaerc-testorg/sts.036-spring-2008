@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1c1ea490-92fb-3923-615a-e5d6a5906671
 resourcetype: Document
 title: Week 1 Reading Questions
 uid: 9c3a410a-c2ec-a717-b8d9-72b15a60f79f

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1fad04f-5145-511c-4858-d8dd29435ab4
 resourcetype: Document
 title: Conservation and the Scientific Management of Nature
 uid: fb1f61d5-396c-603d-2643-62cdf4260259

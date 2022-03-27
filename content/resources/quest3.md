@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 1c1ea490-92fb-3923-615a-e5d6a5906671
 resourcetype: Document
 title: Week 3 Reading Questions
 uid: 26b73e15-cb28-bbee-23be-05128e790621

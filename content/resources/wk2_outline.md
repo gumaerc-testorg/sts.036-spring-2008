@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1fad04f-5145-511c-4858-d8dd29435ab4
 resourcetype: Document
 title: A Brief History of Ecological Change in North America to the Eighteenth Century
 uid: fe14acd6-9b7d-baed-6062-a758ea9886df

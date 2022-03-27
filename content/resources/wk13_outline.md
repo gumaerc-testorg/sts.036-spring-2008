@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1fad04f-5145-511c-4858-d8dd29435ab4
 resourcetype: Document
 title: The Landscape of Food
 uid: ae9be249-a396-01d8-57b7-288590fb1ff1

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: c1fad04f-5145-511c-4858-d8dd29435ab4
 resourcetype: Document
 title: Imposing an Industrial Order on the Antebellum Landscape
 uid: e2398f12-65c5-88c7-ec65-46a1109770ad

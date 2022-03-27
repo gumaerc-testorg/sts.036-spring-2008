@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 174a2e96-c681-a8c4-b95e-f84077ad3ec1
 resourcetype: Document
 title: Reading Response Sample
 uid: 3cdb613a-796e-f9e9-0e93-fbbcb7fdd055

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 174a2e96-c681-a8c4-b95e-f84077ad3ec1
 resourcetype: Document
 title: Response Paper Guidelines
 uid: 017dbffd-7532-0591-aeb2-798af446a56b

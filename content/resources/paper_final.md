@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 174a2e96-c681-a8c4-b95e-f84077ad3ec1
 resourcetype: Document
 title: 'Final Paper: Original Historical Research'
 uid: 80f46542-f8af-4342-c3a6-d8c1664c6ed7
