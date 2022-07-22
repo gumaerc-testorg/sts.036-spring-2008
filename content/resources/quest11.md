@@ -5,6 +5,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/9c8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 11 Reading Questions
 uid: 9c8183cb-707e-2891-3dc2-4e76eddffd87
 ---
 Reading questions for White, The Organic Machine.
-

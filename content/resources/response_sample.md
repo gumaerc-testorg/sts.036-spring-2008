@@ -6,6 +6,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/3cd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Reading Response Sample
 uid: 3cdb613a-796e-f9e9-0e93-fbbcb7fdd055
 ---
 Sample student response to “What is Technology?” readings by Jamie Pietruska, HASTS.
-

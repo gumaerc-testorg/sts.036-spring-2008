@@ -5,6 +5,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/017
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Response Paper Guidelines
 uid: 017dbffd-7532-0591-aeb2-798af446a56b
 ---
 Guidelines on writing the reading response papers for the course.
-

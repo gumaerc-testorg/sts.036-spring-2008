@@ -6,6 +6,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/bd5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Week 2 Reading Questions
 uid: bd5f480d-1707-70d0-fb5b-e1ac05b94ad5
 ---
 Reading questions on the history of ecological change in North America in the eighteenth century described in Cronon's Changes in the Land.
-

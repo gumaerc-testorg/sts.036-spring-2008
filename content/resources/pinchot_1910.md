@@ -7,6 +7,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/eb7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: The Fight for Conservation
 uid: eb7280d5-7b70-8fb3-bcee-2d1569f0433c
 ---
 Reading assignment: Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in The Fight for Conservation. New York, NY: Doubleday, Page & Co., 1910.
-

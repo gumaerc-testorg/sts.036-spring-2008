@@ -6,6 +6,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/be0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Effects of Pollution in the Hudson River on Commerce
 uid: be0735a6-0aa1-adcb-fa49-265d7685950f
 ---
 Exemplary final paper: "Effects of Pollution in the Hudson River on Commerce" by John Hawkinson.
-

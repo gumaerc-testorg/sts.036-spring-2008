@@ -7,6 +7,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/754
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Week 9 Reading Questions
 uid: 75420ef4-21cd-7517-2427-a37dad0854b0
 ---
 Reading questions for Cronon, “The Trouble with Wilderness” (1995), Muir, Our National Parks (1901), pp. 1-36, and Pinchot, The Fight for Conservation (1910), pp. 3-20; 120-147.
-

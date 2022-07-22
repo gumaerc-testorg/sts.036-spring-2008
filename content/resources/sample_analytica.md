@@ -8,6 +8,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/307
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Sample Analytical Paragraphs
 uid: 307be1f2-3696-1343-e823-8a9982e2ea6b
 ---
 Sample paragraphs designed to provide a sense of what the instructor is looking for in an analytical historical essay, in terms of paragraph structure and length, historical specificity, balance between ideas and historical details, and use of sources.
-

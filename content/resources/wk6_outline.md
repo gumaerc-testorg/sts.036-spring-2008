@@ -7,6 +7,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/4cd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: "\u201CDevilish iron horse\u201D and \u201CAeolian harp\u201D: Artistic R
 uid: 4cdc2aa5-26ca-c6a5-2816-24b41c7cb54d
 ---
 Lecture outline on artistic responses to industrialization, seeing the railroad in the American landscape, literary responses to the “Age of Machinery,” and Henry D. Thoreau and the making of Walden.
-

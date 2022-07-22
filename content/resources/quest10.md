@@ -5,6 +5,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/dd2
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 10 Reading Questions
 uid: dd268698-e6e3-0302-4153-6b29ea2c0475
 ---
 Reading questions for Worster, Dust Bowl.
-

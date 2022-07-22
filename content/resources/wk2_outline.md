@@ -6,6 +6,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/fe1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A Brief History of Ecological Change in North America to the Eighteenth C
 uid: fe14acd6-9b7d-baed-6062-a758ea9886df
 ---
 Lecture outline on the history of ecological change in North America, Native American relationships to non-human nature, and exchange.
-

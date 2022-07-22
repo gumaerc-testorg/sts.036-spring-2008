@@ -5,6 +5,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/26b
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Week 3 Reading Questions
 uid: 26b73e15-cb28-bbee-23be-05128e790621
 ---
 Reading questions for Basso, Wisdom Sits in Places.
-

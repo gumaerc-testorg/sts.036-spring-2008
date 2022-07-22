@@ -6,6 +6,7 @@ file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/9c3
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Week 1 Reading Questions
 uid: 9c3a410a-c2ec-a717-b8d9-72b15a60f79f
 ---
 Reading questions for Leo Marx, “Technology: The Emergence of a Hazardous Concept” and Raymond Williams, “Ideas of Nature.”
-
