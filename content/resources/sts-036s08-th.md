@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/sts-036-technology-and-nature-in-american-history-spring-2008/47ede087b8553604569c0e001c16b7c4_sts-036s08-th.jpg
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/47ede087b8553604569c0e001c16b7c4_sts-036s08-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Grain elevators dwarf a few rail cars near Amarillo, Texas. The growth
@@ -12,7 +12,11 @@ image_metadata:
   credit: ''
   image-alt: A photo of two rows of tall concrete grain elevators with a few railroad
     cars.
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
 resourcetype: Image
 title: sts-036s08-th.jpg
 uid: 47ede087-b855-3604-569c-0e001c16b7c4
 ---
+New image Upload

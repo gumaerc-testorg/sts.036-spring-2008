@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on required readings for the course
+  along with study questions.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 1c1ea490-92fb-3923-615a-e5d6a5906671
 ---
@@ -79,7 +84,7 @@ Marx, Leo. "Technology: The Emergence of a Hazardous Concept." _Social Research_
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest1))
+({{% resource_link 9c3a410a-c2ec-a717-b8d9-72b15a60f79f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ A brief history of ecological change in North America in the eighteenth century
 Cronon, pp. 3-107 and 159-170.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest2))
+({{% resource_link bd5f480d-1707-70d0-fb5b-e1ac05b94ad5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +147,7 @@ Discussion
 Basso, pp. 3-104.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest3))
+({{% resource_link 26b73e15-cb28-bbee-23be-05128e790621 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Imposing an industrial order on the antebellum landscape
 Steinberg, Theodore. _Nature Incorporated: Industrialization and the Waters of New England_. New York, NY: Cambridge University Press, 2004, pp. 1-75. ISBN: 9780521527118.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest4))
+({{% resource_link 8353eee5-5f2b-dc1f-5e58-493aa61d322d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +235,7 @@ Discussion
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest5))
+({{% resource_link 990f78dd-dca6-57ac-7e31-a682952a5e11 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +259,7 @@ View film: [_The Iron Road_](http://www.pbs.org/wgbh/amex/iron/). Directed by Ne
  
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest6))
+({{% resource_link f15a6489-1fdb-a04c-e9cb-1e0f40250bbd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,7 +316,7 @@ Steinberg, Theodore. _Down to Earth: Nature's Role in American History_. New Yor
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest7))
+({{% resource_link 36ea332e-ee2a-4e08-1f37-214bccae7398 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -403,9 +408,9 @@ Discussion
 {{< tdopen >}}
 
 
-Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in _The Fight for Conservation_. New York, NY: Doubleday, Page & Co., 1910. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pinchot_1910)) ([Download complete work](http://www.gutenberg.org/etext/11238) from Project Gutenberg.)
+Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in _The Fight for Conservation_. New York, NY: Doubleday, Page & Co., 1910. ({{% resource_link eb7280d5-7b70-8fb3-bcee-2d1569f0433c "PDF" %}}) ([Download complete work](http://www.gutenberg.org/etext/11238) from Project Gutenberg.)
 
-Muir, John. "The Wild Parks and Forest Reservations of the West." Chapter 1 in _Our National Parks_. Boston, MA: Houghton Mifflin & Co., 1901, pp. 1-36. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3 MB]({{< baseurl >}}/resources/muir_natlprk_ch1)) ([View and download the complete work](http://www.archive.org/details/nationalparksour00muirrich) from The Internet Archive.)
+Muir, John. "The Wild Parks and Forest Reservations of the West." Chapter 1 in _Our National Parks_. Boston, MA: Houghton Mifflin & Co., 1901, pp. 1-36. ({{% resource_link cfbe30cc-bbb8-684e-8ec0-21c5a9186fb7 "PDF - 4.3 MB" %}}) ([View and download the complete work](http://www.archive.org/details/nationalparksour00muirrich) from The Internet Archive.)
 
 Cronon, William. "The Trouble with Wilderness." In _Uncommon Ground: Toward Reinventing Nature_. Edited by William Cronon. New York, NY: W.W. Norton & Co., 1995, pp. 69-90. ISBN: 9780393038729.
 
@@ -414,7 +419,7 @@ Steinberg, Theodore. _Down to Earth: Nature's Role in American History_. New Yor
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest9))
+({{% resource_link 75420ef4-21cd-7517-2427-a37dad0854b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -438,7 +443,7 @@ View film: [_Cadillac Desert_](http://www.imdb.com/title/tt0118279/). Directed b
 Worster, pp. 10-25 and 100-180.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest10))
+({{% resource_link dd268698-e6e3-0302-4153-6b29ea2c0475 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -477,7 +482,7 @@ Discussion
 White.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/quest11))
+({{% resource_link 9c8183cb-707e-2891-3dc2-4e76eddffd87 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
