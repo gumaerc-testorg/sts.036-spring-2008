@@ -4,6 +4,7 @@ description: 'Reading assignment: Pinchot, Gifford. "Prosperity," "The New Patri
   and "The Present Battle." Chapters 1, 11 and 12 in The Fight for Conservation. New
   York, NY: Doubleday, Page & Co., 1910.'
 file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/eb7280d57b708fb3bcee2d1569f0433c_pinchot_1910.pdf
+file_size: 1096978
 file_type: application/pdf
 learning_resource_types:
 - Readings
