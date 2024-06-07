@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture outline on the history of ecological change in North America,
   Native American relationships to non-human nature, and exchange.
 file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/fe14acd69b7dbaed6062a758ea9886df_wk2_outline.pdf
+file_size: 65506
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
