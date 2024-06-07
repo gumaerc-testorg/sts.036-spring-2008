@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions for the first formal writing assignment of the course.
 file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/3150bbe96baefcae85160f28291ebd88_paper1.pdf
+file_size: 62012
 file_type: application/pdf
 learning_resource_types:
 - Assignments

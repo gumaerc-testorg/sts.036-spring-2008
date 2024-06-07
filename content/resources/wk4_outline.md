@@ -4,6 +4,7 @@ description: Lecture outline on imposing an industrial order on the antebellum l
   rationalizing the landscape, new sites and modes of production, and a new transportation
   infrastructure.
 file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/e2398f1265c588c7ec6546a1109770ad_wk4_outline.pdf
+file_size: 65671
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

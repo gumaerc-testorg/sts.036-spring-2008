@@ -213,7 +213,7 @@ Discussion
 {{< tdopen >}}
 
 
-Thoreau, Henry David. "Where I Lived, and What I Lived For," "Sounds," "Solitude," "Spring," and "Conclusion." In _Walden_. 1854. ({{% resource_link "2af841b9-3202-4895-87a7-54fe8c7adeb1" "View text and download" %}} from The Thoreau Reader.)
+Thoreau, Henry David. "Where I Lived, and What I Lived For," "Sounds," "Solitude," "Spring," and "Conclusion." In _Walden_. 1854. ([View text and download](http://eserver.org/thoreau/walden00.html) from The Thoreau Reader.)
 
 Marx, L. _The Machine in the Garden: Technology and the Pastoral Ideal in America_. New York, NY: Oxford University Press, 2000, pp. 242-265. ISBN: 9780195133516.
 
@@ -253,7 +253,7 @@ Discussion
 10
 {{< tdclose >}}
 {{< tdopen >}}
-View film: {{% resource_link "d880bac1-cc58-4c6e-8d32-5b707661438a" "_The Iron Road_" %}}. Directed by Neil Goodwin. PBS: The American experience, 1990, 60 min.
+View film: [_The Iron Road_](http://www.pbs.org/wgbh/amex/iron/). Directed by Neil Goodwin. PBS: The American experience, 1990, 60 min.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -300,9 +300,9 @@ Cronon, William. _Nature's Metropolis: Chicago and the Great West_. New York, NY
 {{< tdopen >}}
 
 
-View films: _The Plow That Broke the Plains_. Directed by Pare Lorentz, 1936, 25 min. ({{% resource_link "1bc96f4c-9846-4120-acd2-711c20c35f4c" "View and download" %}} at the Internet Archive.)
+View films: _The Plow That Broke the Plains_. Directed by Pare Lorentz, 1936, 25 min. ([View and download](http://www.archive.org/details/plow_that_broke_the_plains) at the Internet Archive.)
 
-_The River_. Directed by Pare Lorentz, 1938, 31 min. (View and download ({{% resource_link "9fcb62d2-7fe5-4f70-b674-fa5b5bd9750f" "Part 1" %}}, {{% resource_link "4499f277-f3fe-4bb2-9970-bad0a7b54f54" "Part 2" %}}) at the Internet Archive).
+_The River_. Directed by Pare Lorentz, 1938, 31 min. (View and download ([Part 1](http://www.archive.org/details/RiverThe1937), [Part 2](http://www.archive.org/details/RiverThe1937_2)) at the Internet Archive).
 
 
 {{< tdclose >}}
@@ -408,9 +408,9 @@ Discussion
 {{< tdopen >}}
 
 
-Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in _The Fight for Conservation_. New York, NY: Doubleday, Page & Co., 1910. ({{% resource_link eb7280d5-7b70-8fb3-bcee-2d1569f0433c "PDF" %}}) ({{% resource_link "7d9c21fd-fa45-4b7a-aa9d-ad80be352986" "Download complete work" %}} from Project Gutenberg.)
+Pinchot, Gifford. "Prosperity," "The New Patriotism," and "The Present Battle." Chapters 1, 11 and 12 in _The Fight for Conservation_. New York, NY: Doubleday, Page & Co., 1910. ({{% resource_link eb7280d5-7b70-8fb3-bcee-2d1569f0433c "PDF" %}}) ([Download complete work](http://www.gutenberg.org/etext/11238) from Project Gutenberg.)
 
-Muir, John. "The Wild Parks and Forest Reservations of the West." Chapter 1 in _Our National Parks_. Boston, MA: Houghton Mifflin & Co., 1901, pp. 1-36. ({{% resource_link cfbe30cc-bbb8-684e-8ec0-21c5a9186fb7 "PDF - 4.3 MB" %}}) ({{% resource_link "8a343b3f-0bd5-46f2-bda6-26aa1e232ad7" "View and download the complete work" %}} from The Internet Archive.)
+Muir, John. "The Wild Parks and Forest Reservations of the West." Chapter 1 in _Our National Parks_. Boston, MA: Houghton Mifflin & Co., 1901, pp. 1-36. ({{% resource_link cfbe30cc-bbb8-684e-8ec0-21c5a9186fb7 "PDF - 4.3 MB" %}}) ([View and download the complete work](http://www.archive.org/details/nationalparksour00muirrich) from The Internet Archive.)
 
 Cronon, William. "The Trouble with Wilderness." In _Uncommon Ground: Toward Reinventing Nature_. Edited by William Cronon. New York, NY: W.W. Norton & Co., 1995, pp. 69-90. ISBN: 9780393038729.
 
@@ -437,7 +437,7 @@ Steinberg, Theodore. _Down to Earth: Nature's Role in American History_. New Yor
 18
 {{< tdclose >}}
 {{< tdopen >}}
-View film: {{% resource_link "8318f366-e662-4dd9-8ad3-7fecc8ecc983" "_Cadillac Desert_" %}}. Directed by Jon Else and Linda Harrar, 1997, 60 min.
+View film: [_Cadillac Desert_](http://www.imdb.com/title/tt0118279/). Directed by Jon Else and Linda Harrar, 1997, 60 min.
 {{< tdclose >}}
 {{< tdopen >}}
 Worster, pp. 10-25 and 100-180.
