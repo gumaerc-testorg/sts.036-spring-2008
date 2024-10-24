@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading questions for White, The Organic Machine.
-file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/9c8183cb707e28913dc24e76eddffd87_quest11.pdf
+file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/9c8183cb707e28913dc24e76eddffd87_quest11.pdf
 file_size: 78171
 file_type: application/pdf
 learning_resource_types:
