@@ -2,7 +2,7 @@
 content_type: resource
 description: "Reading questions for Cronon, Nature\u2019s Metropolis (Ch. 3 \u201C\
   Pricing the Future: Grain\u201D)."
-file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/36ea332eee2a4e081f37214bccae7398_quest7.pdf
+file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/36ea332eee2a4e081f37214bccae7398_quest7.pdf
 file_size: 71670
 file_type: application/pdf
 learning_resource_types:
