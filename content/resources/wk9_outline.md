@@ -4,7 +4,7 @@ description: Lecture outline on conservation, the scientific management of natur
   redefining wilderness, John Muir, creating national parks, Yellowstone National
   Park, the gospel of efficiency, Gifford Pinchot, and ecological consequences of
   conservation.
-file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/fb1f61d5396c603d264362cdf4260259_wk9_outline.pdf
+file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/fb1f61d5396c603d264362cdf4260259_wk9_outline.pdf
 file_size: 76690
 file_type: application/pdf
 learning_resource_types:

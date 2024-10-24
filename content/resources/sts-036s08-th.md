@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/47ede087b8553604569c0e001c16b7c4_sts-036s08-th.jpg
+file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/47ede087b8553604569c0e001c16b7c4_sts-036s08-th.jpg
 file_size: 1844
 file_type: image/jpeg
 image_metadata:
