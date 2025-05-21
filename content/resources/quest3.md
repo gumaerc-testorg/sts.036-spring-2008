@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading questions for Basso, Wisdom Sits in Places.
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/26b73e15cb28bbee23be05128e790621_quest3.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/26b73e15cb28bbee23be05128e790621_quest3.pdf
 file_size: 71379
 file_type: application/pdf
 learning_resource_types:
