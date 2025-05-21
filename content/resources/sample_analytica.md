@@ -4,7 +4,7 @@ description: Sample paragraphs designed to provide a sense of what the instructo
   is looking for in an analytical historical essay, in terms of paragraph structure
   and length, historical specificity, balance between ideas and historical details,
   and use of sources.
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/307be1f236961343e8238a9982e2ea6b_sample_analytica.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/307be1f236961343e8238a9982e2ea6b_sample_analytica.pdf
 file_size: 68681
 file_type: application/pdf
 learning_resource_types:

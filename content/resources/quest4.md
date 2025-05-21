@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading questions for Steinberg, Nature Incorporated.
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/8353eee55f2bdc1f5e58493aa61d322d_quest4.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/8353eee55f2bdc1f5e58493aa61d322d_quest4.pdf
 file_size: 70423
 file_type: application/pdf
 learning_resource_types:

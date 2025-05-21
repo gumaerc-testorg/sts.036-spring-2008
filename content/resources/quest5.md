@@ -3,7 +3,7 @@ content_type: resource
 description: "Reading questions for Thoreau, Walden: selected chapters: \u201CWhere\
   \ I Lived and What I Lived For,\u201D \u201CSounds,\u201D \u201CSolitude,\u201D\
   \ \u201CSpring,\u201D \u201CConclusion.\u201D"
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/990f78dddca657ac7e31a682952a5e11_quest5.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/990f78dddca657ac7e31a682952a5e11_quest5.pdf
 file_size: 69183
 file_type: application/pdf
 learning_resource_types:

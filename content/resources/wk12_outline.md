@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture outline on Levittown, the building of the postwar suburban family,
   mass production of suburban housing, and a new ecology of the suburbs.
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/9bb96637182f08956511429dfa5f943e_wk12_outline.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/9bb96637182f08956511429dfa5f943e_wk12_outline.pdf
 file_size: 67902
 file_type: application/pdf
 learning_resource_types:

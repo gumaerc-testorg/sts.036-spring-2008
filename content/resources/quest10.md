@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Reading questions for Worster, Dust Bowl.
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/dd268698e6e3030241536b29ea2c0475_quest10.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/dd268698e6e3030241536b29ea2c0475_quest10.pdf
 file_size: 74072
 file_type: application/pdf
 learning_resource_types:

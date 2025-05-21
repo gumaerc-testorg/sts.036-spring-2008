@@ -3,7 +3,7 @@ content_type: resource
 description: "Lecture outline on artistic responses to industrialization, seeing the\
   \ railroad in the American landscape, literary responses to the \u201CAge of Machinery,\u201D\
   \ and Henry D. Thoreau and the making of Walden."
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/46419124c5f5710024f6ca08dd46712d_wk5_outline.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/46419124c5f5710024f6ca08dd46712d_wk5_outline.pdf
 file_size: 70223
 file_type: application/pdf
 learning_resource_types:
