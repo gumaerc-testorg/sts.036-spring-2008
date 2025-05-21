@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines on writing the reading response papers for the course.
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/017dbffd75320591aeb2798af446a56b_response_guide.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/017dbffd75320591aeb2798af446a56b_response_guide.pdf
 file_size: 61527
 file_type: application/pdf
 learning_resource_types:

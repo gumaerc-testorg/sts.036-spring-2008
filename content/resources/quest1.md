@@ -2,7 +2,7 @@
 content_type: resource
 description: "Reading questions for Leo Marx, \u201CTechnology: The Emergence of a\
   \ Hazardous Concept\u201D and Raymond Williams, \u201CIdeas of Nature.\u201D"
-file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/9c3a410ac2eca717b8d972b15a60f79f_quest1.pdf
+file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/9c3a410ac2eca717b8d972b15a60f79f_quest1.pdf
 file_size: 74496
 file_type: application/pdf
 learning_resource_types:
