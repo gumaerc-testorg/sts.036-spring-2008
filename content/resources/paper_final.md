@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Instructions for the final formal writing assignment of the course:
   an original historical research paper.'
-file: /courses/sts-036-technology-and-nature-in-american-history-spring-2008/80f46542f8af4342c3a6d8c1664c6ed7_paper_final.pdf
+file: /ol-ocw-studio-app/courses/sts-036-technology-and-nature-in-american-history-spring-2008/80f46542f8af4342c3a6d8c1664c6ed7_paper_final.pdf
 file_size: 82626
 file_type: application/pdf
 learning_resource_types:
