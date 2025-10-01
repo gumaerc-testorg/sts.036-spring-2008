@@ -48,7 +48,7 @@ There are three (3) formal writing assignments in this class, as well as a revis
 Grading Policy
 --------------
 
-Students are expected to adhere to principles of academic honesty in their work. All written work must be a student's own original work. (Collaboration on essay assignments is not permitted.) Any and all references to other sources within your own paper must be properly documented according to the guidelines in the _Chicago Manual of Style_. If you have any questions about quoting, paraphrasing, or referring to the work of others, please ask! [MIT's Academic Integrity](http://web.mit.edu/academicintegrity/) handbook is a valuable resource that I urge you all to consult.
+Students are expected to adhere to principles of academic honesty in their work. All written work must be a student's own original work. (Collaboration on essay assignments is not permitted.) Any and all references to other sources within your own paper must be properly documented according to the guidelines in the _Chicago Manual of Style_. If you have any questions about quoting, paraphrasing, or referring to the work of others, please ask! {{% resource_link "b259156d-5b61-40f1-8c92-874432eb6a12" "MIT's Academic Integrity" %}} handbook is a valuable resource that I urge you all to consult.
 
 Grades will be calculated as follows:
 
@@ -288,7 +288,7 @@ Discussion
 {{< tdopen >}}
 
 
-View film: [_The Iron Road_](http://www.pbs.org/wgbh/amex/iron/). Directed by Neil Goodwin. PBS: The American experience, 1990, 60 min.
+View film: {{% resource_link "74d88a69-6442-4f9c-a1c0-681937134dfa" "_The Iron Road_" %}}. Directed by Neil Goodwin. PBS: The American experience, 1990, 60 min.
 
 
 {{< tdclose >}}
@@ -322,9 +322,9 @@ Reading response paper due
 {{< tdopen >}}
 
 
-View films: _The Plow That Broke the Plains_. Directed by Pare Lorentz, 1936, 25 min). ([View and download](http://www.archive.org/details/plow_that_broke_the_plains) at the Internet Archive.)
+View films: _The Plow That Broke the Plains_. Directed by Pare Lorentz, 1936, 25 min). ({{% resource_link "4b708f81-4598-44b4-adfc-e8cdb92bf718" "View and download" %}} at the Internet Archive.)
 
-_The River_. Directed by Pare Lorentz, 1938, 31 min. (View and download ([Part 1](http://www.archive.org/details/RiverThe1937), [Part 2](http://www.archive.org/details/RiverThe1937_2)) at the Internet Archive.)
+_The River_. Directed by Pare Lorentz, 1938, 31 min. (View and download ({{% resource_link "5b4dd1ab-6c78-4fa8-8e72-316434af97c0" "Part 1" %}}, {{% resource_link "f7f4c990-1b17-419c-85e1-3b2fd19d0190" "Part 2" %}}) at the Internet Archive.)
 
 
 {{< tdclose >}}
@@ -416,7 +416,7 @@ Discussion
 18
 {{< tdclose >}}
 {{< tdopen >}}
-View film [_Cadillac Desert_](http://www.imdb.com/title/tt0118279/). Directed by Jon Else and Linda Harrar, 1997, 60 min.
+View film {{% resource_link "8e4b1b7a-5c63-4299-917a-90cb9d366556" "_Cadillac Desert_" %}}. Directed by Jon Else and Linda Harrar, 1997, 60 min.
 {{< tdclose >}}
 {{< tdopen >}}
  
